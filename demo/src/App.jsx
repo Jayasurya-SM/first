@@ -2,7 +2,7 @@
 import './App.css';
 
 let userdata ={
-  name : "Surya",
+  name : "React",
   imgurl:"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/2560px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
   age: 0
 }
